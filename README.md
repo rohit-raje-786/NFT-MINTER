@@ -1,5 +1,6 @@
 Live Demo:https://ipfs.io/ipfs/QmTcUfMXpZXqgaCdZctLzzddZHqHS8tvyp52wBDNnHGmeE <br/>
-Webiste:https://nft-minter.rohitpatil20.repl.co/
+Webiste:https://nft-minter.rohitpatil20.repl.co/ <br/>
+Smart Contract:https://github.com/rohit-raje-786/NFT-MINTER-SMART-CONTRACT
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
